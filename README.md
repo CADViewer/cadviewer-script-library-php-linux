@@ -1,6 +1,6 @@
 # cadviewer-script-library-php-linux
 
-The repository cotains
+The repository contains a full setup of CADViewer with CAD Converters and script controllers for Apache Linux running PHP.
 
 Install the content of this repository on apache Linux under /var/www/html/cadviewer/.
 
